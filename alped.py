@@ -273,9 +273,10 @@ result_label.pack(pady=20)
 # Lista wszystkich ekranów do ukrywania
 all_frames = [welcome_frame, ekran_I_stopnia, ekran_II_stopnia, ekran_wyboru_specjalizacji, waiting_frame, result_frame]
 
+# stopka
 footer_label = ctk.CTkLabel(
     root,
-    text="Wydział Budownictwa i Inżynierii Środowiska SGGW - 2025\nStworzył: Mateusz Roman",
+    text="Wydział Budownictwa i Inżynierii Środowiska SGGW - 2025\nStworzył: Mateusz Roman",   
     font=("Helvetica", 12),
     text_color="white"
 )
