@@ -42,12 +42,12 @@ Przed uruchomienem upewnij się, że wszystkie pliki `.txt` z pytaniami znajduj�
 |   |-- ...
 |-- st_II/
 |   |-- og/
-|   |   |-- Architektura_krajobrazu.txt
+|   |   |-- Architektura krajobrazu.txt
 |   |   |-- Budownictwo.txt
 |   |   |-- ...
 |   |-- spec/
 |       |-- Architektura_krajobrazu/
-|       |   |-- Projektowanie_krajobrazu.txt
+|       |   |-- Projektowanie krajobrazu.txt
 |       |   |-- ...
 |       |-- ...
 |-- alped.py
