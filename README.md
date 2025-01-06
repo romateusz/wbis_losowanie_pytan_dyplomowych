@@ -15,9 +15,11 @@ Aplikacja napisana w Pythonie z wykorzystaniem biblioteki `customtkinter`. Umoż
 - Zainstalowana biblioteka `customtkinter`
 
 ## Instalacja
-
 1. Sklonuj repozytorium lub pobierz pliki projektu, możesz zrobić to za pomocą polecenia: 
-git clone https://github.com/romateusz/wbis_losowanie_pytan_dyplomowych.git
+    ```bash
+    git clone https://github.com/romateusz/wbis_losowanie_pytan_dyplomowych.git
+    ```
+
 2. Upewnij się, że masz zainstalowanego Pythona. [Pobierz Pythona](https://www.python.org/downloads/)
 3. Zainstaluj wymagane biblioteki za pomocą polecenia:
 
