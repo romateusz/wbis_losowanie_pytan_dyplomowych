@@ -59,7 +59,8 @@ Przed uruchomienem upewnij się, że wszystkie pliki `.txt` z pytaniami znajduj�
 
 ### Windows
 1. Otwórz wiersz poleceń (Command Prompt) lub terminal w katalogu, w którym znajduje się projekt.
-2. Uruchom aplikację za pomocą polecenia:
+2. Upewnij się, że masz zainstalowanego Pythona i dodaną jego ścieżkę do zmiennych środowiskowych.
+3. Uruchom aplikację za pomocą polecenia:
    ```bash
    python alped.py
    ```
