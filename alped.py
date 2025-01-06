@@ -94,7 +94,7 @@ root = ctk.CTk()
 root.title("Aplikacja do losowania pytań")
 root.geometry("800x600")
 
-# Lista kierunków
+# Listy kierunków i specjalizacji
 kierunki_I_st = [
     ("Architektura krajobrazu", "Architektura_krajobrazu"),
     ("Budownictwo", "Budownictwo"),
@@ -275,9 +275,9 @@ all_frames = [welcome_frame, ekran_I_stopnia, ekran_II_stopnia, ekran_wyboru_spe
 
 footer_label = ctk.CTkLabel(
     root,
-    text="Stworzył: Mateusz Roman",
+    text="Wydział Budownictwa i Inżynierii Środowiska SGGW - 2025\nStworzył: Mateusz Roman",
     font=("Helvetica", 12),
-    text_color="white"  # Ustawienie koloru tekstu na biały
+    text_color="white"
 )
 footer_label.pack(side="bottom", pady=10)
 
