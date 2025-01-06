@@ -1,0 +1,60 @@
+Główne czynniki zagrażające środowisku związane z produkcją zwierzęcą.
+Wpływ stężenia CO2 w atmosferze na fotosyntezę roślin typu C3 i C4 w aspekcie efektu cieplarnianego.
+Układy regulacyjne w organizmie zwierzęcym.
+Bilans radiacyjny i bilans energetyczny w środowisku.
+Przedstaw mechanizm efektu cieplarnianego i jego hipotetyczne skutki środowiskowe w długofalowym scenariuszu rozwojowym.
+Scharakteryzuj naturalne i antropogeniczne źródła zanieczyszczeń powietrza.
+Podaj ogólny podział technik oczyszczania gazów przemysłowych i spalinowych.
+Związki ekologii z ochroną przyrody i ochroną środowiska.
+Udział organizmów żywych w globalnych cyklach biogeochemicznych (cykle: C, N, P).
+Wpływ fragmentacji ekosystemów na funkcjonowanie populacji i bioróżnorodność gatunkową.
+Gatunki zagrożone i chronione w Polsce. Programy ochrony zwierząt realizowane przez ogrody zoologiczne.
+Co to jest bioremediacja?. Omówić możliwości wykorzystania drobnoustrojów w tym procesie.
+Jakie wskaźniki mikrobiologiczne wykorzystujemy do oceny jakości wody?
+Omów rolę drobnoustrojów w procesie glebotwórczym.
+Glebowy kompleks sorpcyjny – czym jest i jaką pełni rolę?
+Jaką rolę odgrywa woda w procesach glebowych i glebotwórczych?
+Scharakteryzuj degradację środowiska na skutek emisji nadmiernych ilości pyłów i gazów przez zakłady przemysłowe, komunalne i komunikację.
+Jakie są źródła pierwiastków śladowych w glebach i zagrożenia środowiska przez nie powodowane?
+Jakie są przyczyny i skutki zakwaszenia gleb?
+Omów obieg azotu w przyrodzie.
+Bioróżnorodność lasów w różnych warunkach siedliskowych.
+Przedstaw wielofunkcyjność ekosystemów leśnych.
+Przedstawić koncepcję zrównoważonego rozwoju społeczno-ekonomicznego i najważniejsze jej uwarunkowania.
+Omówić udział Polski w zanieczyszczeniu wód Bałtyku i działania na rzecz jego ograniczenia.
+Różnorodność polskiej flory i fauny na tle uwarunkowań geograficznych i antropopresji.
+Omów czynniki decydujące o walorach przyrodniczych dolin rzecznych oraz zasady ich zrównoważonego użytkowania.
+Omów efekty gospodarcze i możliwe skutki środowiskowe budowy zbiorników wodnych.
+Omów zastosowanie systemów nawadniających i odwadniających w działaniach ochronnych.
+Miejsce i rola teledetekcji i geodezji w systemie technik geoinformacyjnych.
+Kierunki wykorzystania technik geoinformacyjnych w inwentaryzacji stanu i ochronie środowiska.
+Systemy globalnego wyznaczania pozycji (GPS, GLONASS, GALILEO) jako narzędzie lokalizacji geograficznej szczegółów środowiska przyrodniczego.
+Model numeryczny terenu w zastosowaniu dla potrzeb ochrony i kształtowania środowiska.
+Omów rolę obszarów chronionych w kształtowaniu różnorodności biologicznej krajobrazu.
+Omów międzynarodowe formy i instrumenty ochrony przyrody.
+Omów najważniejsze problemy ochrony przyrody na wybranym przez siebie obszarze.
+Omów wymagania stawiane roślinom w fitoremediacji, podaj przykłady zastosowania gatunków wykazujących wysokie właściwości fitoremediacyjne.
+Podaj na wybranym przykładzie możliwości zastosowania technik fitotechnologii i usuwania metali ciężkich.
+Wyjaśnij pojęcia monitoring środowiska i bioindykacja środowiska.
+Funkcja i znaczenie Państwowego Monitoringu Środowiska.
+Jakie gatunki mogą pełnić rolę bioindykatorów.
+Scharakteryzuj certyfikowane i niecertyfikowane systemy zarządzania środowiskiem z uwzględnieniem różnic i podobieństw.
+Na czym polega Cykl Deminga i dlaczego stanowi on podstawę zarządzania środowiskowego.
+Omów na przykładzie zasady funkcjonowania systemu zarządzania środowiskiem i uzyskiwane efekty ekologiczne.
+Wyjaśnij procesy zachodzące w komorach osadu czynnego.
+Scharakteryzuj metody usuwania fosforu ze ścieków.
+Różnice między konwencjonalnymi i niekonwencjonalnymi technologiami oczyszczania ścieków.
+Procesy zachodzące podczas usuwania ścieków w środowisku gruntowym.
+Omów funkcjonowanie konwencji międzynarodowych w zakresie ochrony środowiska na przykładzie konwencji klimatycznej.
+Omów rodzaje i funkcjonowanie aktów prawnych UE w zakresie ochrony środowiska.
+Omów System Ocen Oddziaływania na Środowisko jako instrument efektywnego wdrażania ochrony środowiska do procesu decyzyjnego.
+Wymień i podaj różnice w treści dokumentów sporządzanych w postępowaniu Ocen Oddziaływania na Środowiska przedsięwzięć.
+Rola społeczeństwa w postępowaniu w sprawie oceny oddziaływania na środowisko.
+Przedstaw przykład korzystnych i niekorzystnych zjawisk i procesów przyrodniczych wywoływanych przez różne formy zagospodarowania terenu.
+Podaj przykłady najnowszych koncepcji projektowych mających na celu ochronę zasobów środowiska przyrodniczego.
+Główne składniki bilansu wodnego, ich zmienność na obszarze Polski.
+Zasoby wodne Polski – stan, zagrożenia, możliwości poprawy.
+Porównanie reakcji na deszcz ulewny małej zlewni rolniczej i zurbanizowanej.
+Na czym polega proces samooczyszczania się wód.
+Proces eutrofizacji zbiorników wodnych.
+Funkcje zbiorników wodnych.

@@ -1,0 +1,21 @@
+[S2] Wymień i omów sposób pomiaru charakterystyk hydrologicznych i biofizycznych stosowanych w monitoringu funkcjonowania naturalnych ekosystemów dolinnych.
+[S2] Omów terenowe sposoby szacowania retencji intercepcji powierzchni roślin zielnych.
+[S2] Omów znane teledetekcyjne metody mapowania wskaźnika LAI w naturalnych dolinach rzecznych.
+[S2] Scharakteryzuj możliwości i znaczenie danych hiperspektralnych w w ochronie środowiska.
+[S2] Wymień teledetekcyjne wskaźniki multi- i hiper-spektralne przydatne w charakterystyce stanu zdrowotnego roślinności.
+[S2] Jakie znasz dane teledetekcyjne pozyskiwane z pokładu bezzałogowych statków powietrznych. Wymień wady i zalety w porównaniu do satelitarnych.
+[S2] Rozwiń skrót GNSS. Podaj znane ci sposoby wykorzystania GNSS w monitoringu i ochronie środowiska.
+[S2] Na czym polega proces indeksowania w bazie danych i jakie są jego wady i zalety?
+[S2] Do czego w bazie danych wykorzystuje się klucze podaj ich rodzaje i zasadę przekazywania?
+[S2] Podaj nazwę minimum trzech ogólnopolski systemów informatycznych związanych z ochroną środowiska i podaj do czego służą.
+[S2] Podaj w jakim celu wdrażana jest dyrektywa INSPIRE i jakie ma filary?
+[S2] Podaj jakie oznaczenia fizyko-chemiczne wód powierzchniowych powinno się wykonywać w terenie i dlaczego?
+[S2] Podaj minimum dwa sposoby (analityczno-obliczeniowe) umożliwiające ocenę procesu samooczyszczania w cieku?
+[S2] Wymień przykłady organizmów (klasy, gromady, min.3), których dominacja w ekosystemie wskazuje na niedostateczną czystość wody (niskie natlenienie, wysoka zawartość substancji organicznych).
+[S2] Podaj cel zastosowania i wymień typy warunków brzegowych stosowanych w modelach hydrologicznych.
+[S2] Jakie wyniki można uzyskać w procesie modelowania przepływu wód podziemnych i jakie mogą one mieć praktycznie zastosowanie?
+[S2] Wymień podstawowe etapy opracowania modelu hydrologicznego wskazując niezbędne dane wejściowe.
+[S2] Podaj możliwości wykorzystania modelu hydrologicznego w ochronie wód.
+[S2] Co w optymalizacji wielokryterialnej oznacza, że rozwiązanie jest optymalne w sensie Pareto (niezdominowane)?
+[S2] Omów możliwość zastosowania dodatku Solver w programie Excel do rozwiązywania zagadnień optymalizacyjnych.
+[S2] Co to jest rozwiązanie suboptymalne? Kiedy je stosujemy w praktyce inżynierskiej?

@@ -1,0 +1,18 @@
+[B2] W jaki sposób i z wykorzystaniem jakich narzędzi w terenie można określić głębokość zwierciadła wód podziemnych?
+[B2] Podaj wymagania dla oceny przydatności gruntów spoistych na mineralne uszczelnienia składowisk odpadów.
+[B2] Jakie są sposoby poprawy warunków stateczności skarp składowisk odpadów?
+[B2] Omów technologię wykonania i zagrożenia przy realizacji posadowienia budowli na studniach opuszczanych.
+[B2] Wymień przynajmniej pięć warunków geotechnicznych uznawanych za trudne na potrzeby posadowienia budowli. Uzasadnij wybór przykładów.
+[B2] Wymień i scharakteryzuj stany graniczne spowodowane hydraulicznym zniszczeniem.
+[B2] Jakie budowle zalicza się do trzeciej kategorii geotechnicznej?
+[B2] Podaj definicję współczynnika Poissona, jego znaczenie i możliwe podejścia do wyznaczania w odniesieniu do ośrodka gruntowego.
+[B2] Scharakteryzuj pomiary prędkości fal poprzecznych i podłużnych w gruncie metodami laboratoryjnymi i terenowymi. Omów podstawowe możliwości interpretacyjne.
+[B2] Wymień przynajmniej trzy przykłady zagrożeń naturalnych (kataklizmów, klęsk żywiołowych) i omów aspekty geotechniczne jednego z nich.
+[B2] Wymień przynajmniej trzy przykłady zagrożeń katastrofą lub awarią wywołanych działalnością człowieka i omów aspekty geotechniczne jednego z nich.
+[B2] Podaj definicję elementu skończonego. Wymień modele konstytutywne gruntu oraz przedstaw ich charakterystykę.
+[B2] Co rozumiesz pod pojęciami stateczność ogólna i stateczność miejscowa ziemnej budowli hydrotechnicznej?
+[B2] Podaj kryteria doboru gruntów na filtry odwrotne i omów jedno z nich.
+[B2] Narysuj przykładowy rozkład parcia czynnego i biernego gruntu dla danego układu warstw.
+[B2] Jaka jest różnica pomiędzy kotwią a gwoździem gruntowym?
+[B2] Podaj definicję monitoringu budowli.
+[B2] Podaj najczęściej stosowane urządzenia do monitorowania zachowania się zapory ziemnej.

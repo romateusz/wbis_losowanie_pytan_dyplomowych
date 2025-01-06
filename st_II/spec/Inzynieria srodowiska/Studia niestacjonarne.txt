@@ -1,0 +1,10 @@
+[NS] Omów rolę układu hydroforowego w systemie wodociągowym.
+[NS] Wymień i omów wskaźniki podstawowej analizy fizyczno-chemicznej wody.
+[NS] Omów zjawiska i procesy kształtujące stosunki wodne zlewni miejskich oraz wskaż zagrożenia związane ze zjawiskami ekstremalnymi.
+[NS] Na czym polega analiza stateczności wewnętrznej i zewnętrznej zapory ziemnej i wału przeciwpowodziowego?
+[NS] Podaj podział gruntów antropogenicznych zgodnie z Eurokodem 7.
+[NS] Na dowolnym przykładzie omów działania rewitalizacyjne obszarów kryzysowych.
+[NS] Scharakteryzuj równanie przepływu dyspersyjnego zanieczyszczeń w środowisku glebowym z uwzględnieniem zjawisk adsorpcji i desorpcji.
+[NS] Omów sposób określania parametrów krzywej przejścia zanieczyszczeń w ośrodkach glebowych.
+[NS] Scharakteryzuj podstawowe techniki w fitoremediacji terenów zdegradowanych.
+[NS] Wymień i scharakteryzuj sposoby zagospodarowania odpadów energetycznych.

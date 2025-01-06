@@ -1,0 +1,18 @@
+[S1] Omów zalety i ograniczenia form modelowania przepływu wody w korytach rzecznych.
+[S1] Jak określa się przepustowość koryta rzecznego w warunkach ustalonego i nieustalonego przepływu wody.
+[S1] Podaj i omów przykłady wykorzystania modelowania przepływu wody w korytach rzecznych.
+[S1] Jakie wymagania stawia Eurokod 7 w stosunku do projektowania budowli hydrotechnicznych?
+[S1] Jakie zmienne oddziaływania należy uwzględnić przy projektowaniu geotechnicznym budowli hydrotechnicznych?
+[S1] Wymień i scharakteryzuj stany graniczne zniszczenia hydraulicznego budowli hydrotechnicznych.
+[S1] Scharakteryzuj wartości dopuszczalne i graniczne wybranych parametrów technicznych budowli punktowych będących w eksploatacji w systemach melioracyjnych.
+[S1] Na jakie główne elementy techniczne budowli punktowych i liniowych należy zwrócić szczególną uwagę w eksploatacji systemów drenarskich i nawodnień podsiąkowych ?
+[S1] Jak należy utrzymywać i eksploatować elementy systemów melioracyjnych aby zapewnić im jak najdłuższą żywotność ?
+[S1] Scharakteryzuj poszczególne elementy w określeniu potrzeb wodnych na etapie projektowania i eksploatacji stawów rybnych.
+[S1] Wymień i scharakteryzuj główne kategorie karpiowych stawów rybnych.
+[S1] Omów główne budowle hydrotechniczne występujące w gospodarce stawowej.
+[S1] Wymień i omów kategorie prac utrzymaniowych według Prawa Wodnego
+[S1] Podaj przykłady działań minimalizujących negatywny wpływ prac utrzymaniowych na środowisko
+[S1] Wymień i omów wymagane przepisami dokumenty z zakresu eksploatacji budowli wodnych.
+[S1] Omów zasady wyboru rodzaju ujęcia wody.
+[S1] Wymień i omów rodzaje ujęć wód podziemnych i powierzchniowych.
+[S1] Wymień sposoby renowacji studni i omów jeden z nich.

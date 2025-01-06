@@ -1,0 +1,60 @@
+Wyjaśnij pojęcie lepkości cieczy. Jakie współczynniki charakteryzują lepkość cieczy i od czego zależą? Jak zmienia się lepkość cieczy wraz z temperaturą?
+Jak zmienia się ciśnienie hydrostatyczne w nieruchomej cieczy wraz ze wzrostem głębokości cieczy?
+Wyjaśnij określenia: ruch krytyczny, rwący i spokojny w korytach otwartych.
+Wyjaśnij co to jest i kiedy powstaje odskok hydrauliczny w korycie otwartym?
+Od czego zależy natężenie wypływu wody przez otwory zatopione, a od czego przez otwory niezatopione?
+Do czego wykorzystywana jest w hydraulice liczba kryterialna Reynoldsa, a do czego liczba Froude´a?
+Wymień i omów warunki projektowania budowli wodnych narzucone klasą techniczną budowli.
+Wymień przepływy charakterystyczne. Jakie przepływy wykorzystywane są w obliczeniach budowli wodnych?
+Wymień i omów konstrukcję najczęściej stosowanych urządzeń do rozpraszania energii poniżej małych jazów.
+Wymień elementy konstrukcji wielootworowego jazu żelbetowego i podaj ich funkcje.
+Zdefiniuj rzędną korony budowli hydrotechnicznej i omów zasady jej ustalania.
+Omów sposoby przeprowadzania wody w czasie budowy jazu na małych i dużych rzekach.
+Wymień i omów funkcje jakie spełniają skrzydła jazu w stanowisku górnym i dolnym?
+Omów cel sporządzania krzywych charakterystycznych zbiornika retencyjnego.
+Omów zasadę działania upustu zbiornikowego z przelewem i spustem.
+Wymień cele regulacji rzek i porównaj cechy charakterystyczne regulacji technicznej oraz naturalnej.
+Podaj definicje i wymień środki czynnej i biernej ochrony przed powodzią oraz wymień tzw. środki nietechniczne..
+Podaj ogólne cele budowy systemów informatycznych związanych z gospodarką wodną.
+Omów cel, zakres i główne elementy Dyrektywy INSPIRE.
+Wymień i scharakteryzuj procesy chemiczne związane z samooczyszczaniem wód.
+Przedstaw sztuczne procesy oczyszczania wód i wskaż gdzie najczęściej są stosowane?
+Przedstaw przestrzenny i czasowy rozkład sumy opadów atmosferycznych i parowania w Polsce.
+Wymień rodzaje ruchomych frontów atmosferycznych i podaj jakie opady są związane z przejściem tych frontów.
+Jaka jest różnica między zginaniem prostym, a ukośnym? Podaj przykłady elementów konstrukcyjnych pracujących na zginanie.
+Jakie elementy konstrukcyjne narażone są na utratę stateczności? Kiedy do niej dochodzi i jakie są jej formy?
+Na czym polega statyczna próba rozciągania i jaki jest jej cel?
+Omów w jaki sposób wg normy PN-EN 206 określa się klasę betonu na ściskanie i podaj czynniki wpływające na wytrzymałość betonu.
+Omów rodzaje konstrukcji schodów i zasady ich projektowania.
+Wymień i omów technologie wznoszenia ścian w budynkach jednorodzinnych.
+Wymień rodzaje obiektów wodnych mogących zawsze znacząco i potencjalnie znacząco oddziaływać na środowisko..
+Jaki dokument reguluje zasady zagospodarowania na terenie Parku Narodowego? Jaki jest zakres uzgodnień z dyrektorem parku narodowego dokumentów planistycznych dla gminy?
+Jakie priorytety powinna mieć gmina przy wyznaczaniu nowych obszarów pod zabudowę w Studium uwarunkowań i kierunków zagospodarowania przestrzennego (m.in. zgodnie z Ustawą o planowaniu i zagospodarowaniu przestrzennym)?
+Zdefiniuj pojęcie inwestycji celu publicznego oraz podaj minimum trzy przykłady takich inwestycji z zakresu gospodarki wodnej w podziale na inwestycje o znaczeniu  krajowym, wojewódzkim i gminnym.
+Przedstaw podział materiałów budowlanych ze względu na pochodzenie i stosowane surowce.
+Wymień i omów metody badania konsystencji mieszanki betonowej.
+Wymień kilka czynników, od których zależy dobór składników betonu i konsystencji mieszanki betonowej.
+Podaj podział uzbrojenia sieci wodociągowej i omów po jednym urządzeniu z poszczególnych grup?
+Podaj zalecane napełnienia rurociągów w kanalizacji grawitacyjnej, dopuszczalne prędkości przepływu ścieków i zagłębienia rurociągów oraz omów zasady obliczania ilości ścieków bytowych i przemysłowych?
+Przedstaw podstawy sporządzania kosztorysów budowlanych i scharakteryzuj ich rodzaje.
+Wymień podstawowych uczestników procesu inwestycyjnego oraz ich obowiązki i uprawnienia.
+Wyjaśnij pojęcia: aluwia, koluwia, deluwia.
+Podaj klasyfikację wód podziemnych. Omów wody w strefie aeracji.
+Co to jest pozwolenie wodnoprawne i kto je wydaje?
+Wymień i scharakteryzuj rodzaje zapór najczęściej w Polsce.
+Na podstawie jakich miar określa się stan zagęszczenia gruntów spoistych i niespoistych w nasypie?
+Na czym polega ocena stateczności ogólnej zapory, podaj przypadki obliczeniowe.
+W jakim celu stosuje się i na czym polega monitoring budowli hydrotechnicznych?
+Wymień i scharakteryzuj niekorzystne zjawiska wywołane filtracją wody w gruntach spoistych i niespoistych.
+Podaj podstawowe kryteria lokalizacji zapory nasypowej.
+Scharakteryzuj sposoby posadowienia budowli oraz wymień rodzaje fundamentów bezpośrednich i pośrednich.
+Wymień i omów rodzaje pali ze względu na sposób przekazania obciążenia.
+Wymień i omów rodzaje i wykorzystanie ścian szczelinowych i ścianek szczelnych..
+Omów znaczenie krzywej retencji wodnej gleby w kształtowaniu zasobów wodnych ekosystemów lądowych.
+Wymień i omów parametry transportu wody w strefie nienasyconej gleby.
+Omów pojęcie hydrologii gleb na przykładzie elementów bilansu wodnego strefy korzeniowej gleby.
+Wymień główne przyczyny powodujące nadmierne uwilgotnienie gleby.
+Przedstaw zmiany zachodzące w glebach torfowych na skutek ich odwodnienia.
+Wymień i omów skutki nadmiernego uwilgotnienia gruntów rolnych.
+Wymień i omów konstrukcje stosowane do umocnienia dna oraz skarp rowów w systemach melioracyjnych.
+Wymień i omów rodzaje systemów odwadniających.

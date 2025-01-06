@@ -1,0 +1,60 @@
+Wymień i omów rodzaje konstrukcji domów drewnianych.
+Co to jest beton towarowy? Podaj jaki jest jego skład i podstawowe cechy.
+Wymień oraz scharakteryzuj pokrycia dachowe stosowane w budownictwie jedno- i wielorodzinnym.
+Przedstaw rozwiązania przestrzenne i konstrukcyjne schodów.
+Zdefiniuj współczynnik przenikania ciepła przez przegrodę budowlaną.
+Wymień wielkości geometryczne charakteryzujące przekrój poprzeczny elementu konstrukcyjnego. Podaj które z tych wielkości mają znaczenie przy określaniu wytrzymałości elementu rozciąganego osiowo, zginanego i skręcanego.
+Czym są efekty II-rzędu w analizie konstrukcji żelbetowej?
+Na czym polega Metoda Elementów Skończonych (MES), jakie jest jej zastosowanie oraz jakie są jej podstawowe zalety i wady?
+Wymień przynajmniej po dwie hipotezy wytrzymałościowe dla materiałów sprężystych i kruchych. Omów na czym polega jedna z nich.
+Omów metodę stanów granicznych.
+Od czego zależą klasy ekspozycji elementów żelbetowych i ich podział?
+Scharakteryzuj hydroizolacje pod względem materiałowym i omów ich zastosowanie w obiektach budowlanych.
+Wymień czynności i materiały geodezyjne konieczne do zrealizowania inwestycji z zakresu budownictwa np. przyłącza wodociągowego.
+Jakie metody geodezyjne mogą być stosowane do wyznaczania wielkości osiadania lub wypiętrzania budowli?
+Omów spawane połączenia konstrukcji stalowych oraz metody ich projektowania.
+Na czym polega statyczna próba rozciągania stali i jaki jest jej cel?
+Omów typy i określ rolę stężeń w konstrukcjach stalowych.
+Przedstaw metody zagęszczania mieszanki betonowej.
+Wymień rodzaje deskowań budowlanych, przedstaw ich klasyfikację i omów zadania jakie pełnią.
+Omów śrubowe połączenia konstrukcji stalowych oraz metody ich projektowania.
+Wymień i scharakteryzuj obciążenia obiektów budowlanych.
+Na czym polega utrata stateczności globalnej występujęca w stalowych elementach konstrukcyjnych.
+Kiedy wymagana jest konieczność określenia klasy przekroju stalowego? Jaka jest procedura klasyfikowania przekrojów i jakie ogólne cechy (dotyczące nośności) mają przekroje w danej klasie.
+Jakie są ogólne zasady wymiarowania żelbetowego przekroju prostokątnego?
+Podaj zasady projektowania konstrukcji metodą stanów granicznych – sytuacje obliczeniowe wg EC.
+Wymień typy oraz metody wymiarowania stóp słupów stalowych.
+Przedstaw zasady obliczania obciążania wiatrem i śniegiem budynków zgodnie z Eurokodem.
+Przedstaw metodę sił (stopień statycznej niewyznaczalności układu, schematy podstawowe), omów równania kanoniczne metody sił oraz podaj kiedy się z niej korzysta.
+Przedstaw metodę przemieszczeń (stopień geometrycznej niewyznaczalności układu, schematy podstawowe), omów równania kanoniczne metody przemieszczeń oraz podaj kiedy się z niej korzysta.
+Wyjaśnij pojęcie „parcie hydrostatyczne cieczy”.
+Od czego zależy współczynnik oporów liniowych w przewodach hydraulicznych?
+Wymień i omów rodzaje zamknięć budowli wodnych.
+Wymień i omów elementy konstrukcyjne jazów ruchomych.
+Wymień i omów warunki sprawdzane w ocenie stateczności budowli wodnych.
+Wymień i omów przepływy wykorzystywane w obliczeniach budowli wodnych.
+Co to jest i do czego służy krzywa natężenia przepływu?
+Na czym polega i do czego służy metoda analogii hydrologicznej?
+Co to jest teledetekcja? Podaj wybrany przykład jej zastosowania w budownictwie.
+Wymień i omów zalety i ograniczenia stosowania pali prefabrykowanych.
+Wymień i omów typy skrzyżowań dróg
+Co rozumiesz pod pojęciem „grunty słabe” oraz grunty dobrze i źle uziarnione?
+Wymień i scharakteryzuj rodzaje fundamentów bezpośrednich.
+Wymień i omów rodzaje pali ze względu na sposób przekazywania obciążenia.
+Wymień i omów rodzaje i wykorzystanie ścian szczelinowych i ścianek szczelnych.
+Co to jest wysadzinowość gruntów i jak się można przed nią zabezpieczyć?
+Wymień i omów etapy rozpoznania podłoża przy projektowaniu inwestycji drogowej.
+Wymień i omów oddziaływania uwzględniane przy obliczaniu posadowień budowli.
+Co decyduje o zakresie badań i głębokości rozpoznania podłoża gruntowego.
+Wymień i scharakteryzuj niekorzystne zjawiska wywołane filtracją wody w gruntach.
+Wymień i scharakteryzuj metody badania zagęszczalności gruntów spoistych i niespoistych.
+Na czym polega ocena stateczności skarpy nasypu lub wykopu? Podaj definicję współczynnika stateczności (pewności) w metodzie równowagi granicznej.
+Wymień i omów parametry geotechniczne wykorzystywane w obliczeniach stanów granicznych nośności i użytkowalności fundamentów budowli.
+Jaki jest wpływ historii naprężenia na odkształcalność i wytrzymałość gruntów?
+Omów metody budowy nasypów na gruntach organicznych.
+Wymień dokumenty, które są podstawą planowania realizacji obiektów budowlanych. Podaj, kto odpowiada za ich przygotowanie.
+Przedstaw podstawy sporządzania kosztorysów budowlanych i scharakteryzuj ich rodzaje.
+Wymień i omów założenia harmonogramów sieciowych- ich rodzaje, metody sporządzania, zalety i wady.
+Wymień i scharakteryzuj sposoby odwodnienia wykopów budowlanych.
+Wymień i omów systemy i urządzenia odwadniające i nawadniające.
+Kiedy w procesie inwestycyjnym wymagana jest Ocena Oddziaływania na Środowisko?
