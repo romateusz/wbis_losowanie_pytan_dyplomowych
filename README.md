@@ -50,7 +50,7 @@ Przed uruchomienem upewnij się, że wszystkie pliki `.txt` z pytaniami znajduj�
 |       |   |-- Projektowanie_krajobrazu.txt
 |       |   |-- ...
 |       |-- ...
-|-- main.py
+|-- alped.py
 |-- requirements.txt
 |-- README.md
 ```
@@ -76,7 +76,7 @@ Przed uruchomienem upewnij się, że wszystkie pliki `.txt` z pytaniami znajduj�
    ```
 3. Uruchom aplikację za pomocą polecenia:
    ```bash
-   python3 main.py
+   python3 alped.py
    ```
 
 ## Autor
