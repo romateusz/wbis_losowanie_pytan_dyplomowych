@@ -42,15 +42,15 @@ Przed uruchomienem upewnij się, że wszystkie pliki `.txt` z pytaniami znajduj�
 |   |-- ...
 |-- st_II/
 |   |-- og/
-|   |   |-- Architektura_krajobrazu.txt
+|   |   |-- Architektura krajobrazu.txt
 |   |   |-- Budownictwo.txt
 |   |   |-- ...
 |   |-- spec/
 |       |-- Architektura_krajobrazu/
-|       |   |-- Projektowanie_krajobrazu.txt
+|       |   |-- Projektowanie krajobrazu.txt
 |       |   |-- ...
 |       |-- ...
-|-- main.py
+|-- alped.py
 |-- requirements.txt
 |-- README.md
 ```
@@ -59,7 +59,8 @@ Przed uruchomienem upewnij się, że wszystkie pliki `.txt` z pytaniami znajduj�
 
 ### Windows
 1. Otwórz wiersz poleceń (Command Prompt) lub terminal w katalogu, w którym znajduje się projekt.
-2. Uruchom aplikację za pomocą polecenia:
+2. Upewnij się, że masz zainstalowanego Pythona i dodaną jego ścieżkę do zmiennych środowiskowych.
+3. Uruchom aplikację za pomocą polecenia:
    ```bash
    python alped.py
    ```
@@ -76,7 +77,7 @@ Przed uruchomienem upewnij się, że wszystkie pliki `.txt` z pytaniami znajduj�
    ```
 3. Uruchom aplikację za pomocą polecenia:
    ```bash
-   python3 main.py
+   python3 alped.py
    ```
 
 ## Autor
