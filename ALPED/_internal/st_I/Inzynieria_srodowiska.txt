@@ -1,0 +1,60 @@
+Jak zmienia się ciśnienie hydrostatyczne w nieruchomej cieczy wraz z głębokością?
+Od czego zależy wysokość strat energii przy ciśnieniowym przepływie w przewodzie wodociągowym?
+Zaproponuj typowy schemat technologiczny oczyszczania wody powierzchniowej lub podziemnej.
+Omów wybrane procesy technologiczne wykorzystywane do usuwania koloidów i zawiesin z wody i ścieków.
+Podaj podział uzbrojenia sieci wodociągowej i omów po jednym urządzeniu z poszczególnych grup.
+Podaj zakresy stosowania systemów kanalizacji grawitacyjnej, ciśnieniowej i podciśnieniowej oraz omów ich budowę i zasadę działania.
+Scharakteryzuj ruch spokojny, krytyczny i rwący w korytach otwartych
+Omów procesy technologiczne wykorzystywane do usuwania substancji rozpuszczonych z wody i ścieków.
+Wymień rodzaje zamknięć budowli wodnych ze względu na ich przeznaczenie.
+Podaj zasady przyjmowania przepływów miarodajnych i kontrolnych dla budowli piętrzących.
+Wymień główne elementy konstrukcyjne jazów ruchomych.
+Jakie czynniki wpływają na wielkość oporów przepływu w korytach rzecznych?
+Omów gospodarcze i środowiskowe znaczenie rzek.
+Porównaj cechy technicznej i naturalnej regulacji rzek.
+Wymień typy umocnień i budowli regulacyjnych.
+Omów przestrzenny i czasowy rozkład temperatury powietrza i opadów atmosferycznych w Polsce.
+Omów zjawiska: efekt cieplarniany, smog siarkowy (londyński) i smog fotochemiczny (Los Angeles).
+Omów wyznaczanie i zastosowania związku dwóch wodowskazów.
+Co rozumiemy pod pojęciem bilansu wodnego?
+Co to jest i do czego służy krzywa natężenia przepływu?
+Na czym polega tworzenie zlewniowych planów gospodarowania wodami?
+Na czym polega związek pomiędzy gospodarowaniem wodami, a ideą zrównoważonego rozwoju?
+Podaj definicję melioracji wodnych oraz scharakteryzuj urządzenia melioracji wodnych według zapisów Prawa wodnego.
+Scharakteryzuj zasady monitoringu składowych bilansu wodnego profilu glebowego dla potrzeb prognozowania oraz identyfikacji zagrożeń środowiskowych w ekosystemach lądowych.
+Omów znaczenie nawodnień na obszarach rolniczej przestrzeni produkcyjnej w aspekcie celów ich realizacji oraz techniki dostarczania wody do gleby.
+Scharakteryzuj rodzaje i funkcje systemów melioracyjnych w aspekcie zrównoważonego gospodarowania wodą glebową.
+Omów zmiany zachodzące w glebach organicznych pod wpływem ich odwodnienia.
+Scharakteryzuj metody określania parametrów systemu drenarskiego oraz omów rozwiązania techniczne stosowane w ograniczaniu skutków nadmiernego uwilgotnienia gleby.
+Na czym polega indykacja biologiczna i jakie organizmy uznawane są za wskaźnikowe?
+Omów czynniki glebotwórcze wpływające na powstawanie gleb.
+Omów kierunki i fazy rekultywacji terenów zdegradowanych.
+Omów źródła zanieczyszczeń w środowisku oraz sposoby przeciwdziałania skutkom zanieczyszczeń.
+Wymień rodzaje i omów wykorzystanie ścianek szczelnych.
+Wymień i scharakteryzuj rodzaje fundamentów pośrednich.
+Od czego zależy zagęszczalność gruntów?
+Scharakteryzuj parametry stosowane przy ocenie zagęszczenia gruntów.
+Wymień i omów kryteria doboru gruntów do uszczelnień.
+Wymień i omów sposoby zabezpieczenia przed niekorzystnymi skutkami filtrującej wody.
+Wymień i omów rodzaje konstrukcji oporowych.
+Wymień i omów czynniki decydujące o zakresie badań podłoża budowli.
+Jakie są wymagania stawiane gruntom do wykonania obsypek (filtrów odwrotnych) drenaży?
+Wymień parametry charakteryzujące właściwości fizyczne gruntów.
+Scharakteryzuj metody zabezpieczanie skarp wykopów.
+Jakie są sposoby zagęszczania gruntu w nasypach?
+Wymień rodzaje i funkcje geosyntetyków stosowanych w inżynierii środowiska.
+Wymień i scharakteryzuj rodzaje drenaży trwałych.
+Wyjaśnij pojęcia dotyczące eksploatacji ujęć wód podziemnych: depresja, obszar spływu wód do ujęcia, zasięg wpływu ujęcia.
+Omów i scharakteryzuj roboty transportowe.
+Porównaj metody kolejnego i równoległego wykonania pracy.
+Omów cykl działań zorganizowanych.
+Omów hierarchię sposobów postępowania z odpadami.
+Omów metody unieszkodliwiania zmieszanych odpadów komunalnych.
+Omów metody recyklingu organicznego.
+Omów metody odzysku energetycznego (Waste to Energy).
+Omów potrzebę wykonywania projektu instalacji ogrzewniczej budynku.
+Omów podstawowe zasady projektowania i wykonawstwa instalacji gazowych (materiały, lokalizacja, oznaczenia).
+Omów budowę sieci ciepłowniczej. Elementy, urządzenia, przeznaczenie.
+Wymień elementy konstrukcyjne, które występują w budynku jednorodzinnym.
+Wymień sposoby zabezpieczenia termiczno-wilgotnościowego budynku jednorodzinnego.
+Wymień cechy budynku pasywnego i energooszczędnego.

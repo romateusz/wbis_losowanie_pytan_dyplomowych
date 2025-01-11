@@ -1,0 +1,31 @@
+[O] Czym są biotesty w ocenie środowiska wodnego: do czego są wykorzystywane, jakie są kryteria doboru organizmów. Podaj przykłady biotestów z podaniem modelu jaki wykorzystują.
+[O] Co to znaczy, że substancja jest lipofilna? Jakie są konsekwencje dla organizmów skażenia środowiska taką substancją. Jaki materiał do analizy toksykologicznej należy pobrać w przypadku podejrzenia skażenia zbiornika wodnego substancją lipofilną?
+[O] Co to jest bilans energetyczny organizmu? W jaki sposób zanieczyszczenia środowiska mogą go zakłócać? Podaj przykłady.
+[O] Jak rozumiesz pojęcie „selektywność pestycydów”? Wyjaśnij dlaczego insektycydy (np. DDT i piretroidy) wykazują wyższą toksyczność ostrą dla gatunków docelowych w porównaniu z toksycznością dla ptaków i ssaków.
+[O] Omów źródła narażenia, toksykokinetyke i najważniejsze skutki narażenia zwierząt na rtęć, kadm i ołów.
+[O] Wyjaśnij pojęcie „modelu”. Podaj przykład modelu pojedynczych procesów, modelu złożonego, zintegrowanego i globalnego. Podaj na czym polegają różnice między tymi modelami.
+[O] Wyjaśnij pojęcie modelu czarnej, białej i szarej skrzynki.
+[O] Omów przebieg procesu zamulania zbiornika zaporowego i podaj negatywne skutki tego zjawiska.
+[O] Wymień funkcje środowiska przyrodniczego uwzględniając racjonalne użytkowanie zasobów naturalnych.
+[O] Omów zarządzanie jakością zasobów z uwzględnieniem pojemności utylizacyjnej ekosystemu.
+[O] Scharakteryzuj certyfikowane i niecertyfikowane systemy zarządzania środowiskiem z uwzględnieniem podobieństw i różnic.
+[O] Przedstaw Społeczną Odpowiedzialność Biznesu (CSR) mając na uwadze gospodarowanie zasobami środowiska.
+[O] Proszę podać powody, dla których władza publiczna powinna określać cele polityki ochrony środowiska oraz być odpowiedzialna za wdrażanie jej celów.
+[O] Cechą aktywnej polityki ochrony środowiska jest to, że w jej ramach stosowane są specyficzne instrumenty służące osiąganiu jej celów. Proszę wymienić główne grupy tych instrumentów, podać ich podstawowy podział, oraz omówić najważniejsze z nich.
+[O] Źródła zanieczyszczeń w środowisku.
+[O] Wyjaśnij pojęcie „zanieczyszczenia pasywne” i podaj przykłady takich zanieczyszczeń.
+[O] Jakie mechanizmy dominują w transporcie zanieczyszczeń w stawach i jeziorach, rzekach i kanałach, w atmosferze a jakie w gruncie?
+[O] Adwekcyjny i dyfuzyjny transport zanieczyszczeń.
+[O] Co nazywamy krajobrazem ekologicznym i jak się nazywa jego ożywiona (biotyczna) część?
+[O] Co to jest synurbizacja fauny? Podaj kilka przykładów gatunków podlegających synurbizacji.
+[O] Co to jest ryzyko i w jaki sposób można je szacować ilościowo.
+[O] Co to jest metoda drzewa zdarzeń i do czego jest stosowana.
+[O] Jakie znaczenie w działaniach planistycznych mają metody scenariuszowe?
+[O] Opisz ogólny schemat sformalizowanego procesu wspomagania decyzji.
+[O] Czy prognozowanie jest przewidywaniem przyszłości?
+[O] Czym się różni praca z modelem symulacyjnym od pracy z modelem optymalizacyjnym?
+[O] Jakie czynniki związane z ukształtowaniem terenu mają pośredni, a jakie bezpośredni wpływ na kształtowanie się odpływu w zlewni i od czego one zależą?
+[O] Jakie parametry bierzemy pod uwagę przy ocenie walorów przyrodniczo-krajobrazowych strefy akwatycznej?
+[O] Omów proces osiadania gleb organicznych wywołany ich odwodnieniem.
+[O] Proszę wymienić i krótko scharakteryzować cele planowania przestrzennego.
+[O] Proszę podać najważniejsze różnice pomiędzy studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy a miejscowym planem zagospodarowania przestrzennego.

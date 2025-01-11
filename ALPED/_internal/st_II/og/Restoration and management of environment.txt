@@ -1,0 +1,61 @@
+[O] Describe approaches used for modelling of water uptake by plant roots.
+[O] Describe a model for predicting the effect of urbanization on flood flows.
+[O] Discuss the hydrological consequences of urbanization on flood hydrograph. Describe a common method used for estimating direct runoff from heavy rainfall.
+[O] Discuss lumped modelling vs distributed modelling when consider rainfall-runoff processes in a river catchment.
+[O] Describe basic soil conservation methods in local and regional scale.
+[O] Mention the advantages and the disadvantages of water harvesting.
+[O] Sources, and of digital elevation model used for derivation of the catchment boundary.
+[O] Name three different hydrological models which are coupled with GIS or used GIS as pre-processor in common interface. Discuss difference between coupling and full integration of model with GIS.
+[O] Describe the stages of contaminated site investigation (including „smart characterization”).
+[O] Characterize the division of soil and groundwater treatment methods.
+[O] What are the major threats to wild growing medicinal plants?
+[O] Characterize the methods of medicinal plant conservation.
+[O] Discuss the role of climatic changes in contemporary world’s environmental policy. Provide 2 examples of policies oriented at mitigation of negative influences of climatic change on societies, economies and environments.
+[O] Provide definition of stakeholders in an environmental policy context and discuss different levels of stakeholders’ involvement in environmental management process.
+[O] List and describe two major differences between the River Continuum Concept (developed by Vannote) and the Flood Pulse Concept (developed by Junk)?
+[O] What is a wetland buffer zone and what are the main features of them in a floodplain landscape?
+[O] What is sociology of food? How is food linked to society, culture, social organization, social interaction?
+[O] What are the social functions of „Food taboos”? Give examples.
+[O] What is the event tree method and when it is used?
+[O] What is the risk and how it is calculated?
+[O] Low technology methods in environmental protection.
+[O] Development of environmental problems during last 70 years and countermeasures activity.
+[O] Polycyclic Aromatic Hydrocarbons; their sources, distribution in the environment, effects in humans.
+[O] Tropospheric ozone; its source and effects in plants and humans.
+[O] What are the consequences of nitrite-induced Fe2+ oxidation leading to hypoxia (suffocating)? List at least three.
+[O] What are the factors necessary for the reductive (London-type) smog formation? What are the health consequences of London smog?
+[O] Persistent Organic Pollutants; which groups of substances are included in POPs? What are the characteristic features of POPs which decide, that they are considered extremely dangerous for the environment and humans?
+[O] The general rules of the environmental protection in Poland and in the world.
+[O] The Red List of endangered species and the consequences of its approval.
+[O] The ecological website and environmental protection – the connections and consequences.
+[O] The problem of alien species in various eco-system.
+[O] Basic threats for the birds nesting in urban area.
+[O] What do we mean by term „integrated water resources management”?
+[O] Can we link integrated water resources management to sustainable development goals?
+[O] What do we understand by term „system analysis”?
+[O] Describe the steps in formal process of decision making.
+[O] Describe the major steps in Change Theory.
+[O] List important elements of farm ecological infrastructure and describe one of them.
+[O] Define agroecosystem.
+[O] Stress avoidance and tolerance strategies – explain the differences on example of selected plant stress.
+[O] Describe ABA as most important stress hormone.
+[O] Environmental factor affecting intensity of photosynthesis – list all and describe one.
+[O] Explain the differences between acclimation and adaptation to environmental stresses.
+[O] Importance of soil bacteria or fungi.
+[O] Define endophytes, what are their functions in plants?
+[O] What are the threats posed by invasive plant species to natural ecosystems and what are the most common removal methods that can be applied?
+[O] Give an example of vegetation-based criteria that can be used to assess the level of anthropogenic pressure in a given site.
+[O] How does the river regulation affect the riparian forests in the river valley?
+[O] What is the effect of tourism on valuable riverine ecosystems and how to plan touristic activities in river valleys in a sustainable manner?
+[O] Describe impact of artificial drainage on peat soils.
+[O] Discuss main functions of peatlands.
+[O] List and describe briefly challenges and key recommendations for improving wetland restoration.
+[O] How is success or failure in wetland restoration projects evaluated?
+[O] What is the role of the environmental engineer in the spatial planning process?
+[O] List and describe the main stages in the spatial planning process.
+[O] Explain with examples the natural changes of environment.
+[O] What do you mean by noise pollution?
+[O] What is municipal solid waste? List and describe the major health hazards associated with municipal solid waste.
+[O] What are the environmental effects caused by global warming?
+[O] Principles of landscape planning basing on ecological premises.
+[O] What is the method of ecological truss (method of landscape shaping)?

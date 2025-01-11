@@ -1,0 +1,18 @@
+[S2] Omów przepływy obliczeniowe (miarodajne i kontrolne) przyjmowane do wymiarowania budowli hydrotechnicznych i drogowych. Podaj ich związki (prawdopodobieństwa przewyższenia) z klasą budowli.
+[S2] Omów wybrane przepływy i stany okresów powodziowych; przepływy dopuszczalne i dozwolone; stany ostrzegawcze i alarmowe.
+[S2] Omów wpływ urbanizacji na kształt hydrogramu odpływu w wyniku deszczu o dużym natężeniu i dużej wydajności z małej zlewni. Jak zredukować niekorzystne zmiany urbanizacji w tym aspekcie?
+[S2] Na czym polega dyskretyzacja przestrzeni w trakcie prac związanych z modelowaniem przepływu wód podziemnych.
+[S2] W jaki sposób i z wykorzystaniem jakich narzędzi można określić głębokość zalegania zwierciadła wód podziemnych w terenie?
+[S2] Na czym polega kalibracja modelu w trakcie prac związanych z modelowaniem przepływu wód podziemnych?
+[S2] Wymień i omów antropogeniczne źródła zanieczyszczeń wód.
+[S2] Omów procesy zachodzące w wodach na skutek zanieczyszczenia ściekami.
+[S2] Wymień i omów innowacyjne metody oczyszczania wód i ścieków.
+[S2] Na czym polega cykl planistyczny w gospodarce wodnej?
+[S2] Wymień podstawowych użytkowników wody w zlewni.
+[S2] Jakie jest znaczenie monitoringu w planowaniu gospodarki wodnej.
+[S2] Wymień i omów główne wskaźniki suszy glebowej i rolniczej?
+[S2] Scharakteryzuj główne systemy monitoringu suszy w Polsce (system budowy, zasady działania, dostępność do ich wyników)
+[S2] Podaj i omów główne działania zmierzające do ograniczenia skutków suszy rolniczej i glebowej.
+[S2] Wymień i scharakteryzuj rodzaje zielonych dachów.
+[S2] Wymień (i uzasadnij wybór) najodpowiedniejsze gatunki roślin na zielone dachy z uwzględnieniem rodzaju dachu.
+[S2] Czy zielone dachy mogą istotnie wpływać na bilans wodny zlewni miejskiej? Jeśli tak, to w jaki sposób?

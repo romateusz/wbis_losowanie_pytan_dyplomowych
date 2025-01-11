@@ -1,0 +1,10 @@
+[A2] Wymień składowe odpływu rzecznego i opisz proces formowania się fali wezbraniowej w kontekście składowych odpływu.
+[A2] Jakie mogą być konsekwencje oddziaływania zmian klimatu na reżim odpływu rzek w różnych strefach klimatycznych?
+[A2] Omów przepustowość koryt w warunkach przepływu ustalonego i nieustalonego.
+[A2] Podaj przykłady zastosowania modelowania matematycznego do prognozowania przepływu wielkich wód.
+[A2] Omów w jaki sposób można oszacować wpływ przewidywanych zmian klimatu na zasoby wodne w skali zlewni.
+[A2] Omów kolejne etapy pracy z modelem hydrologicznym zlewni rzecznej niezbędne, aby model taki mógł być wykorzystany w praktyce wodnogospodarczej.
+[A2] Omów zjawiska i procesy kształtujące stosunki wodne zlewni miejskich oraz wskaż zagrożenia związane ze zjawiskami ekstremalnymi.
+[A2] Omów ideę i zasady stosowania metody Low Impact Development w modelowaniu hydrologicznym zlewni zurbanizowanej.
+[A2] W jaki sposób można zmniejszać ryzyko powodziowe?
+[A2] Co jest podstawowym celem Ramowej Dyrektywy Wodnej?

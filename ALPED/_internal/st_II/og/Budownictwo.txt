@@ -1,0 +1,34 @@
+[O] Omów strukturę i formy strumienia występujące na długości bystrza.
+[O] Wymień i omów rozwiązania konstrukcyjne wlotów upustów stokowych.
+[O] Uzasadnij potrzebę wprowadzania elementów sztucznej szorstkości na długości bystrza.
+[O] Jakie wymagania są stawiane analizie układów konstrukcyjnych?
+[O] Jak może być opisana analiza układów dyskretnych?
+[O] Omów zasady projektowania konstrukcji prefabrykowanych.
+[O] Przedstaw zasady projektowania betonowych konstrukcji złożonych ze względu na warunki naprężeniowe.
+[O] Przedstaw i omów klasy wytrzymałości miękkiego i twardego drewna konstrukcyjnego.
+[O] Na czym polega maszynowe sortowanie wytrzymałościowe drewna? Wymień zasadnicze elementy.
+[O] Wyjaśnij pojęcia: „aglomeracja”, „konurbacja” i „deglomeracja”.
+[O] Omów klasyfikację węzłów stalowych zgodnie z normą PN-EN 1993-1-8.
+[O] Wymień i omów typy, źródła oraz metody uwzględniania w obliczeniach imperfekcji w analizie globalnej ram stalowych.
+[O] Wymień trzy najważniejsze różnice w podejściu do zagadnień mechaniki gruntów i mechaniki skał.
+[O] Wymień i scharakteryzuj rodzaje parametrów geotechnicznych wg EUROKODU 7.
+[O] Wyjaśnij na wykresie jakie znaczenie ma zakres rozpatrywanego odkształcenia w określaniu sztywności gruntu w odniesieniu do możliwości aparaturowych i warunków pracy konstrukcji.
+[O] Omów istotę działania systemu wodociągowego.
+[O] Wymień i omów stopnie oczyszczania ścieków.
+[O] Omów zasady eksploatacji systemu wodociągowego i systemu kanalizacyjnego.
+[O] Jakie są zasadnicze elementy konstrukcji zielonych dachów intensywnych i ekstensywnych?
+[O] W jaki sposób odwadnia się tereny zurbanizowane przy dostatecznej i niedostatecznej powierzchni na urządzenia odwadniające?
+[O] Podaj zależności pomiędzy następującymi opracowaniami i dokumentami: Studium Uwarunkowań i Kierunków Zagospodarowania Przestrzennego, Miejscowym Planem Zagospodarowania Przestrzennego, Decyzją o warunkach zabudowy i Pozwoleniem na budowę.
+[O] Wymień parametry i zapisy stosowane w Miejscowym Planem Zagospodarowania Przestrzennego mające wpływ na architekturę budynku i zagospodarowanie działki budowlanej.
+[O] Do czego stosuje się metodę Earned Value Method (EVM) w budownictwie?
+[O] Omów możliwości programu MS Project w zakresie zarządzania realizacji robót budowlanych.
+[O] Czego dotyczy szeregowanie zadań w zakresie planowania robót budowlanych? Jakich metod obliczeniowych używa się do rozwiązania tego zagadnienia?
+[O] Omów różnice w mechanizmie utraty nośności kolumny kamiennej, smukłej i krępej.
+[O] Omów metodę i zasadę działania konsolidacji podłoża słabonośnego przy zastosowaniu drenów pionowych.
+[O] Jak określa się stopień statycznej niewyznaczalności dźwigarów zakrzywionych w planie?
+[O] Omów uproszczenia stosowane przy wyznaczaniu sił wewnętrznych w statycznie niewyznaczalnych dźwigarach załamanych lub zakrzywionych w planie o budowie symetrycznej, obciążonych symetrycznie lub antysymetrycznie.
+[O] Jak wyznacza się siły krytyczne w ramach lub belkach metodą przemieszczeń?
+[O] Omów metodę Navier’a wyznaczania częstości drgań własnych cienkich, jednorodnych, liniowo-sprężystych płyt prostokątnych.
+[O] Podaj postać relacji konstytutywnych w ramach teorii plastycznego płynięcia dla materiałów uplastycznionych sprężysto -plastycznych i sztywno- plastycznych.
+[O] Co to są fale Rayleigha, co je powoduje, gdzie występują oraz jaki jest zasięg ich występowania?
+[O] Co to jest płaski stan naprężenia i płaski stan odkształcenia? Podaj przykłady gdzie one występują.

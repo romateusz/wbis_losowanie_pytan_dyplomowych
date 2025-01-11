@@ -1,0 +1,40 @@
+[O] List and explain the main curves used in hydropower analyses.
+[O] Which of the forms of mineral nitrogen is a mobile form in the soil environment and why?
+[O] Characterize the reducing conditions in water reservoirs. List the mineral forms of nitrogen and sulphur occurring under these conditions.
+[O] What forms of bound oxygen can occur in natural reservoir.
+[O] What are unit total costs? What is their purpose and what are they for? Discuss this on a selected example of enterprises from the water and sewage industry.
+[O] Discuss ways of setting and types of water tariffs.
+[O] Characterize the fixed and variable costs in the enterprise. Discuss this on a selected example of enterprises from the water and sewage industry.
+[O] Describe the stages of identifying contaminated sites.
+[O] Present the division of land and groundwater treatment methods.
+[O] Characterize modern techniques for in-situ contaminated soil testing.
+[O] What is the division of air purification methods?
+[O] What quantities characterize the acoustic wave and in what units are they expressed?
+[O] What are the methods of noise protection?
+[O] What is the distribution of air pollution monitoring networks by task and what are the differences between these tasks.
+[O] Provide a definition of State Environmental Monitoring (PMŚ) and list aims of PMŚ.
+[O] Present the basic reliability structures of the object.
+[O] Provide a definition of reliability function.
+[O] Discuss the expert methods for estimating reliability.
+[O] Explain the following concepts: maximum design flood, allowed flow, flow permissible.
+[O] List pianistic documents, needed for elaboration, in the light of European Flood Directive 2007/60/WE from 23.IX.2007 year.
+[O] Describe process of flood transformation on reservoir with free (nonregulated) outflow.
+[O] How is sustainable development implemented through spatial planning?
+[O] Specify the priorities in the planning and location of new developments that are in force according to the Spatial Planning and Development Act.
+[O] List the methods of river renaturalization (rehabilitation) based on the changes made in the horizontal layout of the riverbed.
+[O] Give three examples of riverbank structures and describe their ecological functions.
+[O] What is the role of vegetation in the different elements of the river:  the river bed, the banks and the river valley? Discuss the functions and practical examples of use.
+[O] Present methods to improve the stability of landfill slopes, the embankments and natural slopes.
+[O] Present the classification, materials and functions of seals in landfills.
+[O] What documents define the planned tasks to be performed on a construction site and who is responsible for their correct preparation?
+[O] Explain the terms: full investment life cycle, investment cycle, investment realization cycle. What stages and phases are included in each of the mentioned cycles?
+[O] Describe structure and working rules of chamber water intake from river bank.
+[O] Describe method of Cross used for calculation annular water supply networks.
+[O] Describe structure and working rules of small-diameter gravity sewage system.
+[O] Describe structure of technological line for surface water treatment intended for drinking.
+[O] Describe idea of marginal cost of reduction of pollution related to unit tax for emissions and emission allowances.
+[O] Discuss the basic benefits of implementing an environmental management system in an enterprise.
+[O] List and discuss the design solutions of the culvert slope inlet.
+[O] Discuss the structure and forms of the stream occurring along the swift current length of theculvert slope inlet.
+[O] Give the basic dimensions of the dam’s cross-section and list factors determining their properties.
+[O] What is the purpose of using inverse filters in earthfill dams, what are the criteria for their selection, discuss one of them?

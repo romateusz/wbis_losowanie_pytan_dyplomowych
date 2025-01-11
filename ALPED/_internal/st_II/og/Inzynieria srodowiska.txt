@@ -1,0 +1,40 @@
+[O] Wymień i omów główne krzywe wykorzystywane w analizach hydroenergetycznych.
+[O] Która z form azotu mineralnego jest formą mobilną w środowisku glebowym i dlaczego?
+[O] Scharakteryzuj warunki redukcyjne w zbiornikach wodnych. Wymień formy mineralne azotu i siarki występujące w tych warunkach.
+[O] Jakie formy tlenu związanego mogą występować w zbiornikach naturalnych?
+[O] Co to są jednostkowe koszty całkowite? W jakim celu się je wylicza i do czego służą? Omów to na wybranym przykładzie przedsiębiorstwa z branży wodno-kanalizacyjnej.
+[O] Omów sposoby ustalania oraz rodzaje taryf za wodę.
+[O] Scharakteryzuj koszty stałe i zmienne w przedsiębiorstwie. Omów to na wybranym przykładzie przedsiębiorstwa z branży wodno-kanalizacyjnej.
+[O] Omów etapy identyfikacji terenów zanieczyszczonych.
+[O] Przedstaw podział metod oczyszczania gruntów i wód gruntowych.
+[O] Scharakteryzuj nowoczesne techniki badań gruntów zanieczyszczonych in-situ.
+[O] Jaki jest podział metod oczyszczania powietrza?
+[O] Jakie wielkości charakteryzują falę akustyczną i w jakich jednostkach są one wyrażane?
+[O] Jakie są metody ochrony przed hałasem?
+[O] Jaki jest podział sieci monitorujących zanieczyszczenia powietrza ze względu na zadania i na czym polegają różnice tych zadań.
+[O] Podaj definicję Państwowego Monitoringu Środowiska oraz wymień cele PMŚ.
+[O] Przedstaw podstawowe struktury niezawodnościowe obiektu.
+[O] Podaj definicję funkcji niezawodności.
+[O] Omów metody eksperckie szacowania niezawodności.
+[O] Wyjaśnij pojęcia: maksymalne wiarygodne wezbranie, przepływ dozwolony, przepływ dopuszczalny.
+[O] Wymień dokumenty planistyczne, których obowiązek opracowania nakłada Dyrektywa Powodziowa 2007/60/WE z dn. 23.IX.2007 r.
+[O] Omów proces transformacji fali wezbraniowej przez zbiornik ze swobodnym (niesterowanym) odpływem.
+[O] W jaki sposób poprzez planowanie przestrzenne jest realizowana idea zrównoważonego rozwoju?
+[O] Wymień obowiązujące, zgodnie z Ustawą o planowaniu i zagospodarowaniu przestrzennym, priorytety w planowaniu i lokalizowaniu nowej zabudowy.
+[O] Wymień metody renaturyzacji rzek polegające na zmianie układu poziomego koryta.
+[O] Podaj trzy przykłady rzecznych struktur brzegowych oraz opisz ich funkcje przyrodnicze.
+[O] Jaką rolę w renaturyzacji rzek odgrywa roślinność w strefie korytowej, brzegowej i w dolinie rzecznej? Omów funkcje i przykłady zastosowań.
+[O] Przedstaw metody poprawy warunków stateczności skarp składowisk, nasypów i zboczy naturalnych.
+[O] Przedstaw podział, materiały i funkcje uszczelnień w składowiskach odpadów.
+[O] Jakie dokumenty wyznaczają planowane zadania do wykonania na budowie i kto odpowiada za ich poprawne przygotowanie?
+[O] Wyjaśnij pojęcia: pełny cykl życia inwestycji, cykl inwestycyjny, cykl realizacji inwestycji. Jakie etapy i fazy wchodzą w zakres każdego z wymienionych cykli?
+[O] Omów budowę i zasadę działania ujęcia brzegowo – komorowego.
+[O] Omów metodę Crossa stosowaną do obliczania pierścieniowych sieci wodociągowych.
+[O] Omów budowę i zasadę działania kanalizacji grawitacyjnej małośrednicowej.
+[O] Omów budowę ciągu technologicznego do uzdatniania wód powierzchniowych przeznaczonych do picia.
+[O] Objaśnij pojęcie kosztu krańcowego redukcji zanieczyszczeń w odniesieniu do jednostkowego podatku od emisji i uprawnień do emisji.
+[O] Omów podstawowe korzyści wynikające z wdrożenia systemu zarządzania środowiskiem w przedsiębiorstwie.
+[O] Wymień i omów rozwiązania konstrukcyjne wlotów upustów stokowych.
+[O] Omów strukturę i formy strumienia występujące na długości bystrza upustów stokowych.
+[O] Podaj podstawowe wymiary przekroju poprzecznego zapory i czynniki od których zależą ich wartości.
+[O] W jakim celu stosujemy filtry odwrotne w zaporach ziemnych, podaj jakie znasz kryteria ich doboru i omów jedno z nich?

@@ -1,0 +1,10 @@
+[A4] Podaj cel i cechy Systemu Ocen Oddziaływania na Środowisko przedsięwzięć.
+[A4] Scharakteryzuj środki mitygujące i kompensujące negatywne oddziaływania inwestycji na środowisko.
+[A4] Wyjaśnij czym jest rewitalizacja? Wskaż przykładowe cele opracowania diagnozy z zakresu rewitalizacji.
+[A4] Na dowolnym przykładzie omów działania rewitalizacyjne obszarów kryzysowych.
+[A4] Scharakteryzuj równanie przepływu dyspersyjnego zanieczyszczeń w środowisku glebowym z uwzględnieniem zjawisk adsorpcji i desorpcji.
+[A4] Omów sposób określania parametrów krzywej przejścia zanieczyszczeń w ośrodkach glebowych.
+[A4] Scharakteryzuj podstawowe techniki w fitoremediacji terenów zdegradowanych.
+[A4] Omów wymagania roślin wykorzystywanych w poszczególnych technikach fitoremediacyjnych.
+[A4] Wymień i scharakteryzuj sposoby zagospodarowania odpadów energetycznych.
+[A4] Omów możliwości (kierunki) i warunki wykorzystania oczyszczonych ścieków.

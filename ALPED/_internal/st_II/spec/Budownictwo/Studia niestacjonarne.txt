@@ -1,0 +1,19 @@
+[NS] Proszę podać definicję korozji metali, wymienić czynniki na nią wpływające.
+
+[NS] Podać definicję drgań i przedstawić ich klasyfikację.
+[NS] Omówić rodzaje badań diagnostycznych istniejących konstrukcji żelbetowych.
+[NS] Na czym polega wykorzystanie budownictwa i terenów poprzemysłowych – podaj przykłady.
+[NS] Metody montażu stalowych budynków halowych – wymień i krótko omów.
+[NS] Omów ogólne zasady projektowania rurociągów stalowych.
+[NS] Podaj metody osuszania budynków oraz naprawy izolacji przeciwwodnych.
+[NS] Podaj co należy rozumieć pod pojęciem termomodernizacja.
+[NS] W jaki sposób i z wykorzystaniem jakich narzędzi można określić głębokość zalegania zwierciadła wód podziemnych w terenie?
+[NS] Wymagania dla oceny przydatności gruntów spoistych do mineralnych uszczelnień składowisk odpadów.
+[NS] Sposoby poprawy warunków stateczności skarp składowisk odpadów.
+[NS] Wymień przynajmniej pięć przykładów warunków geotechnicznych uznawanych za trudne na potrzeby posadowienia budowli i krótko uzasadnij.
+[NS] Jakie budowle zaliczamy do trzeciej kategorii geotechnicznej.
+[NS] Podaj definicję elementu skończonego. Wymień modele konstytutywne gruntu- podaj ich charakterystykę i opis.
+[NS] Co rozumiesz pod pojęciami stateczność ogólna i stateczność miejscowa ziemnej budowli hydrotechnicznej?
+[NS] Podaj kryteria doboru gruntów na filtry odwrotne i omów jedno z nich.
+[NS] Narysuj przykładowy rozkład parcia czynnego i biernego gruntu dla danego układu warstw.
+[NS] Jak jest różnica pomiędzy kotwią a gwoździem gruntowym?

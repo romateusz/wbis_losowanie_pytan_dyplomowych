@@ -1,0 +1,18 @@
+[B1] Podaj definicję korozji metali. Wymień i omów jej typy i rodzaje oraz czynniki na nią wpływające.
+[B1] Wymień aktywne oraz pasywne metody ochrony konstrukcji cienkościennych przed korozją.
+[B1] Podaj różnicę pomiędzy przejściem a dojściem ewakuacyjnym.
+[B1] Przedstaw i zinterpretuj charakterystykę amplitudowo-częstotliwościową układu poddanego drganiom wymuszonym nietłumionym.
+[B1] Podaj definicję drgań i przedstaw ich klasyfikację.
+[B1] Wymień technologie pozwalające oszczędzać i odzyskiwać energię w budownictwie rolniczym.
+[B1] Omów czym różni się ocena jednoetapowa od dwuetapowej w diagnostyce konstrukcji żelbetowych.
+[B1] Omów rodzaje badań diagnostycznych istniejących konstrukcji żelbetowych.
+[B1] Na czym polega wykorzystanie obiektów i terenów poprzemysłowych? Podaj przykłady tego wykorzystania.
+[B1] Czym jest spowodowane i czemu służy tworzenie uniwersalnych (przekształcalnych) przestrzeni produkcyjnych współczesnych budynków przemysłowych?
+[B1] Omów zjawisko odporności stali na kruche pękanie oraz metodę wyznaczania klasy jakościowej stali.
+[B1] Wymień i omów metody montażu stalowych budynków halowych.
+[B1] Wymień i omów metody montażu zbiorników stalowych.
+[B1] Omów ogólne zasady projektowania rurociągów stalowych.
+[B1] Omów wyznaczanie sił krytycznych metodą przemieszczeń w ramach lub belkach o budowie symetrycznej, obciążonych symetrycznie. (Analiza symetrycznej i antysymetrycznej postaci wyboczenia).
+[B1] Omów wyboczenie cienkich, izotropowych, liniowo-sprężystych płyt prostokątnych z wykorzystaniem równania różniczkowego ugięcia płyty z uwzględnieniem sił w płaszczyźnie środkowej płyty.
+[B1] Podaj metody osuszania budynków oraz naprawy izolacji przeciwwodnych.
+[B1] Co należy rozumieć pod pojęciem termomodernizacji?

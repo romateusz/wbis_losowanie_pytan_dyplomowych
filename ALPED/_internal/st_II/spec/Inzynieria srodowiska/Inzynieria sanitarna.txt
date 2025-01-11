@@ -1,0 +1,10 @@
+[A1] Omów cel stosowania i zasadę działania obiegów cyrkulacyjnych ciepłej wody użytkowej.
+[A1] Scharakteryzuj instalację centralnego ogrzewania tradycyjną grzejnikową i podłogową.
+[A1] Wymień i omów urządzenia techniczne stosowane na sieci kanalizacji grawitacyjnej.
+[A1] Podaj budowę i zasadę działania pompowni ścieków.
+[A1] Omów istotę działania systemu wodociągowego.
+[A1] Omów rolę układu hydroforowego w systemie wodociągowym.
+[A1] Omów rozwiązania technologiczne wykorzystania procesów membranowych w technologii wody i ścieków.
+[A1] Przedstaw uwarunkowania eksploatacyjne ciśnieniowych technik membranowych w instalacjach oczyszczania wody i ścieków.
+[A1] Wymień i omów wskaźniki podstawowej analizy fizyczno-chemicznej wody.
+[A1] Omów wskaźniki służące do oceny zawartości substancji organicznych w wodzie i w ściekach.

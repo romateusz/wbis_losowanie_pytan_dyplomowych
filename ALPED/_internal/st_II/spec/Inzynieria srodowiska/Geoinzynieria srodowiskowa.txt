@@ -1,0 +1,10 @@
+[A3] Na podstawie jakich wartości (parametrów) wykreślana jest krzywa kalibracji w trakcie prac związanych z dopasowaniem matematycznego modelu przepływu wód podziemnych?
+[A3] W jakim celu stosowane są warunki brzegowe (boundary conditions) w trakcie prac związanych z matematycznym modelowaniem przepływu wód podziemnych?
+[A3] Wymień i opisz dokumenty, które są niezbędne do uzyskania pozwolenia na budowę?
+[A3] Co to jest i co powinna zawierać Karta Informacyjna Przedsięwzięcia?
+[A3] Scharakteryzuj strefowość budowy geologicznej Polski ze szczególnym uwzględnieniem występowania w podłożu wychodni skał litych paleozoicznych i mezozoicznych oraz kenozoicznych utworów lodowcowych i eolicznych.
+[A3] Podaj podział gruntów antropogenicznych zgodnie z Eurokodem 7.
+[A3] Podaj przykłady zastosowania gruntów antropogenicznych w budownictwie ziemnym i komunikacyjnym.
+[A3] Wymień rodzaje uszczelnień stosowanych w ziemnych konstrukcjach hydrotechnicznych i omów technologię ich wykonania.
+[A3] Scharakteryzuj metodę wyznaczania i dobór wytrzymałości gruntu na ternie osuwiskowym.
+[A3] Na czym polega analiza stateczności wewnętrznej i zewnętrznej zapory ziemnej i wału przeciwpowodziowego?

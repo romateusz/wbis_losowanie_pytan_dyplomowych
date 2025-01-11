@@ -1,0 +1,10 @@
+[A2] List of river flow elements and explain process of river flood wave formulation in the aspect of river flow elements.
+[A2] Consequences of climate change influence on river regime of different climatic zones.
+[A2] Explain output capacity of channel in steady and unsteady flow.
+[A2] List examples of mathematical modelling application for estimation of extreme floods.
+[A2] How we can estimate influence of expected climate changes on water resources in catchment scale?
+[A2] Explain different steps that need to be carried out in order to set up a hydrological model so that it can be applied for scenario analyses
+[A2] Describe phenomena and processes which shape water conditions in urban catchment and indicate risks of extremal floods and droughts.
+[A2] What is LID? What kind of LID’s can be applied in urban hydrological model?
+[A2] How we can minimise flood risk.
+[A2] Shortly describe basic aim of EU Water Framework Directive.

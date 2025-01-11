@@ -1,0 +1,33 @@
+[O] Wymień i omów sposoby ustalania obrysu krawędzi przelewowej upustów lejowych.
+[O] Wymień i omów sposoby połączenia wieży z leżakiem upustu lejowego.
+[O] Wymień i omów podstawowe zasady obliczania falowania na zbiornikach wodnych.
+[O] Omów układ prognozowanego rozmycia brzegu zbiornika dla zmiennego poziomu wody.
+[O] Wymień aktywne metody teledetekcyjne i omów ich zastosowanie w gospodarce wodnej.
+[O] Omów rolę teledetekcji w parametryzowaniu modeli hydrologicznych. Wymień przykłady zastosowania teledetekcji w modelowaniu procesów w zlewni rzecznej.
+[O] Jaka jest różnica pomiędzy klasyfikacją nadzorowaną a nienadzorowaną obrazów w teledetekcji. Wymień przykłady algorytmów stosowanych w obu rodzajach klasyfikacji.
+[O] Podaj podstawowe cechy zobrazowań hiperspektralnych, omów ich zalety i wady w porównaniu z danymi multispektralnymi.
+[O] Jakimi parametrami określa się masywność betonowych konstrukcji i jak na ich podstawie klasyfikuje się konstrukcje betonowe.
+[O] Wymień i omów czynniki kształtujące obciążenia pośrednie twardniejącego betonu w betonowych konstrukcjach hydrotechnicznych.
+[O] Przedstaw podział budowli hydrotechnicznych i wymień jakie budowle zalicza się do danej grupy.
+[O] Omów dokumenty stanowiące podstawę planowania budowy.
+[O] Omów rodzaje harmonogramów sieciowych, metody ich sporządzania, wady i zalety.
+[O] Do jakich celów można wykorzystać harmonogram ogólny budowy?
+[O] Omów założenia metody pracy równomiernej, jako metody organizacji robót.
+[O] Omów możliwości jakie niesie dla wszystkich uczestników budowlanego procesu inwestycyjnego stosowanie technologii BIM.
+[O] Wymień naturalne i antropogeniczne przyczyny zmian klimatu.
+[O] Omów wpływ przewidywanych zmian klimatycznych na kształtowanie się składowych bilansu wodnego.
+[O] Co to jest drzewo błędów i do czego służy w analizie niezawodności.
+[O] Co to jest metoda drzewa niesprawności i do czego służy w analizie niezawodności?
+[O] Podaj definicję funkcji niezawodności.
+[O] Jakie elementy bierze się pod uwagę przy ocenie stanu ekologicznego niewielkich rzek nizinnych?
+[O] Wymień przyczyny zakwitów jezior i omów sposoby ich zwalczania.
+[O] Co to są dyrektywy Unii Europejskiej? Na przykładzie Ramowej Dyrektywy Wodnej wyjaśnij kogo dotyczą i czy są bezpośrednio stosowane.
+[O] Jakie są ustawowe zadania PGW Wody Polskie? Co rozumiesz pod pojęciem usługi wodne?
+[O] Omów strukturę zużycia wody i produkcji ścieków w polskim przemyśle.
+[O] Scharakteryzuj typy obiegów wodnych w zakładach przemysłowych.
+[O] Omów przykładowy układ technologiczny wraz z urządzeniami w stacji uzdatniania wody dla przemysłu.
+[O] Omów przykładowy układ technologiczny wraz z urządzeniami w podczyszczalni ścieków przemysłowych.
+[O] Wymień rodzaje uszczelnień stosowanych w ziemnych konstrukcjach hydrotechnicznych i omów technologię ich wykonania.
+[O] Co rozumiesz pod pojęciami stateczność ogólna i stateczność miejscowa ziemnej budowli hydrotechnicznej?
+[O] Podaj kryteria doboru gruntów na filtry odwrotne stosowane w budowlach hydrotechnicznych i omów jedno z nich.
+[O] Jaką aparaturę kontrolno-pomiarową można zastosować do monitorowania zachowania się ziemnej budowli hydrotechnicznej?

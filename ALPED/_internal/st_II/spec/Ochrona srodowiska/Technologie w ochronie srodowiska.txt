@@ -1,0 +1,21 @@
+[S1] Omów etapy rekultywacji składowisk odpadów.
+[S1] Omów etapy identyfikacji terenów zanieczyszczonych.
+[S1] Przedstaw podział metod oczyszczania gruntów i wód gruntowych.
+[S1] Scharakteryzuj nowoczesne techniki badań gruntów zanieczyszczonych in-situ.
+[S1] Omów wpływ roślin modyfikowanych genetycznie na środowisko (np. kukurydza Bt).
+[S1] Metody otrzymywania roślin modyfikowanych genetycznie – omów po jednym przykładzie z każdej grupy.
+[S1] Omów procesy technologiczne wykorzystywane do usuwania substancji rozpuszczonych z wody i ścieków.
+[S1] Omów wybrane procesy technologiczne wykorzystywane do usuwania koloidów i zawiesin z wody i ścieków.
+[S1] Wymień i omów przykładowy proces biologiczny wykorzystywane w technologii oczyszczania wody i ścieków.
+[S1] Omów zastosowanie utleniania chemicznego w technologii oczyszczania wody i ścieków.
+[S1] Zaproponuj typowy schemat technologiczny oczyszczania wody powierzchniowej przeznaczonej do spożycia przez ludzi.
+[S1] Zaproponuj typowy schemat technologiczny oczyszczania wody podziemnej przeznaczonej do spożycia przez ludzi.
+[S1] Stałe produkty procesów termicznego unieszkodliwiania odpadów: żużel, popioły lotne, metody ich bezpiecznego zagospodarowania.
+[S1] Procesy pirolityczne i ich wykorzystanie do termicznego unieszkodliwiania odpadów komunalnych.
+[S1] Systemy oczyszczanie spalin z procesów termicznego unieszkodliwiania odpadów – odpylanie, odsiarczanie, usuwanie tlenków azotu.
+[S1] Dioksyny: klasyfikacja, prekursory ich powstawania w procesach termicznego unieszkodliwiania odpadów, szkodliwość, metody redukcji ich emisji.
+[S1] Opisz mechanizm eutrofizacji w jeziorach/zbiornikach wodnych ze wskazaniem różnic w przebiegu tego procesu w jeziorach polimiktycznych i stratyfikowanych.
+[S1] Wymień techniczne, chemiczne i biologiczne metody rekultywacji eutroficznych jezior i zbiorników wodnych ze wskazaniem celu oraz zasady działania dla każdej z metod.
+[S1] Zaproponować i omówić przykładowy układ technologiczny przeróbki osadów ściekowych.
+[S1] Omówić proces kompostowania osadów ściekowych.
+[S1] Scharakteryzować zalety i wady przyrodniczego stosowania osadów ściekowych.
